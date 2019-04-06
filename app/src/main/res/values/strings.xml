@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Familienkalender</string>
+
+    <string name="einstellungen">Zu den Einstellungen</string>
+    <string name="neuerTermin">neuen Termin erstellen</string>
+    <string name="leererText"> </string>
+
+    <string name="zuvor">zuvor</string>
+    <string name="weiter">weiter</string>
+
+    <string name="titel">Titel eingeben</string>
+    <string name="ganztaegig">Ganztägig</string>
+    <string name="start">Start</string>
+    <string name="ende">Ende</string>
+    <string name="datum">%1$d . %2$d . %3$d</string>
+    <string name="zeit">%1$d : %2$d</string>
+    <string name="zeitMitString">%1$s : %2$s</string>
+    <string name="speichern">Speichern</string>
+    <string name="abbrechen">Abbruch</string>
+
+    <string name="montag">Mo</string>
+    <string name="dienstag">Di</string>
+    <string name="mittwoch">Mi</string>
+    <string name="donnerstag">Do</string>
+    <string name="freitag">Fr</string>
+    <string name="samstag">Sa</string>
+    <string name="sonntag">So</string>
+
+
+
+
+    <string-array name="monate">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+
+</resources>
